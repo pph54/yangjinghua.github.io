@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Welcome to Jinghua Yang's Homepage
+
+~~~
+{}{img_left}{yjh.jpg}{alt text}{150px}{200px}
+*Jinghua Yang (杨晶华)* \n
+ \n
+School of Information Science and Technology \n
+Southwest Jiaotong University *(SWJTU)* \n
+ \n
+*Emails:* yangjinghua110@126.com or yangjinghua110@swjtu.edu.cn \n
+*Link:*   [https://scholar.google.com/citations?hl=zh-CN&user=LarvIwUAAAAJ&view_op=list_works&sortby=pubdate Google Scholar] \n
+
+== News
+
+Coming soon...
+
+== Research Interests
+
+- Data mining
+- Image processing
+- Tensor analysis
+- Deep learning
+
+{{<span style="color:blue;">欢迎有兴趣的学生联系我进行合作研究！如果您对上述研究方向感兴趣，欢迎发送您的简历和研究计划到我的邮箱，我们期待与您的交流与合作。</span>}}
