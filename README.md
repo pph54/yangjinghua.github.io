@@ -4,5 +4,5 @@
 
 ## 访问链接
 
-`https://pph54.github.io/yangjinghua.github.io/`
+[访问主页：https://pph54.github.io/yangjinghua.github.io/](https://pph54.github.io/yangjinghua.github.io/)
 
