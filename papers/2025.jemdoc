@@ -1,0 +1,83 @@
+2025:
+@ARTICLE{11176933,
+  author={Yang, Jin-Yu and Yang, Jing-Hua and Li, Heng-Chao and Mei, Shaohui and Du, Qian and Plaza, Antonio},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Tensorized High-Order Hypergraph Convolutional Network for Hyperspectral Image Classification}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  keywords={Convolution;Feature extraction;Data mining;Tensors;Symmetric matrices;Transformers;Laplace equations;Computational modeling;Training;Correlation;Hypergraph convolutional networks;hyperspectral image (HSI) classification;tensor decomposition},
+  doi={10.1109/TGRS.2025.3613347}}
+
+@article{XU2026116368,
+title = {Tensor completion via total curvature variation and low-rank matrix factorization},
+journal = {Applied Mathematical Modelling},
+volume = {150},
+pages = {116368},
+year = {2026},
+issn = {0307-904X},
+doi = {https://doi.org/10.1016/j.apm.2025.116368},
+url = {https://www.sciencedirect.com/science/article/pii/S0307904X25004421},
+author = {Zhi Xu and Jing-Hua Yang and Xi-Le Zhao and Xi-hong Yan and Chuan-long Wang},
+keywords = {Low-rank matrix factorization, Total curvature variation, Low-rank tensor completion, Proximal alternating minimization algorithm},
+abstract = {Curvature-based regularization has attracted growing concern in the field of image restoration, benefiting from its favorable geometric properties, such as preserving sharp edges, corners and contrast. Total variation regularization has the ability to promote piecewise smooth property and preserve edges in image processing. Inspired by the advantages of curvature regularization and total variation, in the paper, we first develop a regularization that combines curvature and total variation to explore the geometric characteristics inside high-dimensional data, called total curvature variation (TCV) regularization, which can better preserve local information of the underlying data. We present a new low-rank tensor completion model via TCV and low-rank matrix factorization, which can simultaneously exploits the global low-rank prior and local structure information of data. We solve the proposed minimization problem by using the effective proximal alternating minimization algorithm with guaranteed convergence. Results from experiments on color images, videos, and magnetic resonance images show the superior performance of the proposed method over the compared methods in terms of quantitative and qualitative evaluations.}
+}
+
+@ARTICLE{11122596,
+  author={Li, Ze-Chen and Li, Heng-Chao and Yang, Jing-Hua and Zhang, Fan and Pan, Jie},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Multiscale Gaussian Process-Driven Graph Convolutional Neural Network for Polarimetric SAR Image Classification}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={20929-20946},
+  keywords={Scattering;Feature extraction;Kernel;Accuracy;Remote sensing;Radar polarimetry;Land surface;Graph convolutional networks;Earth;Backscatter;Gaussian process (GP)-driven graph convolutional network (GCN);polarimetric rotation (PR) domain;polarimetric synthetic aperture radar (PolSAR);semi-supervised classification},
+  doi={10.1109/JSTARS.2025.3597776}}
+
+@article{YANG2025103322,
+title = {Mixed-noise robust tensor multi-view clustering via adaptive dictionary learning},
+journal = {Information Fusion},
+volume = {123},
+pages = {103322},
+year = {2025},
+issn = {1566-2535},
+doi = {https://doi.org/10.1016/j.inffus.2025.103322},
+url = {https://www.sciencedirect.com/science/article/pii/S1566253525003951},
+author = {Jing-Hua Yang and Yi Zhou and Lefei Zhang and Heng-Chao Li},
+keywords = {Mixed-noise robust multi-view clustering, Adaptive dictionary learning, Nonconvex tensor nuclear norm, Alternating direction method of multipliers algorithm},
+abstract = {Multi-view clustering (MVC) has received extensive attention by exploiting the consistent and complementary information among views. To improve the robustness of MVC, most MVC methods assume that the noise implicit in the data follows a predefined distribution. However, due to equipment limitations and transmission environment, the collected multi-view data often contains mixed noise. The predefined distribution assumption may not be able to effectively suppress complex mixed noise, resulting in a decrease in clustering performance. For solving the above problem, we propose a novel mixed-noise robust tensor multi-view clustering method (MRTMC) via adaptive dictionary learning. To accurately characterize the mixed noise, we consider mixed noise as a combination of structural noise and Gaussian noise and characterize both respectively. Specially, we design adaptive dictionary learning to accurately model structural noise containing semantic information and use Frobenius norm to constrain Gaussian noise. To fully mine the consistency among multiple views, we introduce a nonconvex tensor nuclear norm on the self-representation tensor to explore the high-order correlation among multiple views. Moreover, the weight of each view is learned through an adaptive weighting strategy. For solving the model, we develop an effective algorithm based on the alternating direction method of multipliers (ADMM) framework and provide the convergence guarantee of the algorithm under mild conditions. Extensive experimental results on simulated and real-world datasets indicate the clustering performance of the proposed MRTMC method is superior to the compared methods.}
+}
+
+@article{doi:10.1137/24M1655093,
+author = {Ding, Meng and Zhao, Xi-Le and Yang, Jing-Hua and Zhou, Zhengchun and Ng, Michael K.},
+title = {Bilateral Tensor Low-Rank Representation for Insufficient Observed Samples in Multidimensional Image Clustering and Recovery},
+journal = {SIAM Journal on Imaging Sciences},
+volume = {18},
+number = {1},
+pages = {20-59},
+year = {2025},
+doi = {10.1137/24M1655093}
+}
+
+@ARTICLE{10938849,
+  author={Ding, Meng and Yang, Jing-Hua and Zhao, Xi-Le and Zhang, Jie and Ng, Michael K.},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Nonconvex Low-Rank Tensor Representation for Multi-View Subspace Clustering With Insufficient Observed Samples}, 
+  year={2025},
+  volume={37},
+  number={6},
+  pages={3583-3597},
+  keywords={Tensors;Correlation;Transforms;Electronic mail;Sparse matrices;Clustering algorithms;Training;Symbols;Reviews;Optimization;Multi-view subspace clustering;insufficient data sampling;nonconvex low-rank tensor representation;transformed tensor nuclear norm;convergence analysis},
+  doi={10.1109/TKDE.2025.3555043}}
+
+@ARTICLE{11219347,
+  author={Yang, Jing-Hua and Li, Heng-Chao and Ding, Meng and Zhao, Xi-Le and Hu, Wen-Yu},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Tensors;Noise reduction;Noise;Remote sensing;Matrix decomposition;Three-dimensional displays;Mathematical models;Picture archiving and communication systems;Monitoring;Correlation;Nonlinear transform-based 3-D tensor nuclear norm;proximal alternating minimization (PAM);remote sensing image (RSI) denoising;tensor multi-subspace representation (TenMSR)},
+  doi={10.1109/TNNLS.2025.3620863}}
